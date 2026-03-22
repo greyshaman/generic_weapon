@@ -1,6 +1,6 @@
 use std::fmt::Debug;
 
-use gen_pro::{
+use generic_weapon::{
     assoc_type::Shoot, shell::{arrow::Arrow, bullet::Bullet, rocket::Rocket}, weapon::{
         blaster::Blaster, crossbow::Crossbow, pistol::Pistol, rocket_launcher::RocketLauncher,
     }
